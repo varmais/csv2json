@@ -1,0 +1,1 @@
+Tällä tiedostolla voi kääntää csv:n json:iksi. Formi ottaa siis vastaan esimerkiksi Google Docsista julkaistun csv-tiedoston osoitteen.
